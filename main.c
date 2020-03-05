@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+//https://github.com/brenns10/lsh/blob/master/src/main.c
+// https://www.rosipov.com/blog/c-strtok-usage-example/
+// https://brennan.io/2015/01/16/write-a-shell-in-c/
+// https://cdn.intra.42.fr/pdf/pdf/5999/minishell.fr.pdf
 void split_line(char *str)
 {
 
